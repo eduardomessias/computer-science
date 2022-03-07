@@ -1,5 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Major+Mono+Display&display=swap');
 
-* {
-  font-family: 'Slabo 27px', serif;  
+body {
+  font-family: 'Cutive Mono', monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Major Mono Display', monospace;
 }
